@@ -97,8 +97,7 @@ The backend provides various API endpoints for handling user interactions:
 - **Response:** JSON object with time series data
 
 ## Design
-
-![design](https://drive.google.com/file/d/1PMr7UoBWXBqPafW3HFgnVoKhbTE3kWlt/view?usp=drive_link)
+![design](https://drive.google.com/uc?id=1PMr7UoBWXBqPafW3HFgnVoKhbTE3kWlt)
 
 ## Tech Stack
 
@@ -169,5 +168,4 @@ npm run dev  # Run the frontend in development
 - Configure the connection settings in the backend.
 
 ## Demo
-
-You can watch the demo video ![here](https://drive.google.com/file/d/1qCanU83ftOyjiOzyuBi87WNm3ZQ8icMt/view?usp=drive_link).
+You can watch the demo video [here](https://drive.google.com/file/d/1qCanU83ftOyjiOzyuBi87WNm3ZQ8icMt/view?usp=drive_link).
