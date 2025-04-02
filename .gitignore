@@ -22,3 +22,35 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node.js (Frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.env
+
+# Python (Backend)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Logs & Cache
+logs/
+*.log
+.cache/
+coverage/
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Editor & System Files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
